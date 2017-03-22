@@ -1,6 +1,6 @@
-# aframe-vibrant
+# vue-boilerplate
 
-> A Vue.js project using Mozilla's VR ( A-Frame framework)
+> A Vue.js boilerplate with Webpack2(+dashboard), Babel, Sass & Eslint
 
 ## Build Setup
 
